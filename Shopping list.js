@@ -1,9 +1,4 @@
-/*
-var fname = 'John';
-var lname = prompt('What is his last name?');
-document.write(fname + ' ' + lname);
 
-*/
 function additem()
 {
 var input = document.getElementById("item").value;
